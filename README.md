@@ -16,7 +16,8 @@ ENGI-NEWS is a dynamic news website designed to provide up-to-date news articles
 ## Project Structure
 
 The project consists of a single HTML file, accompanied by CSS for styling and JavaScript for functionality.
-
+![Screenshot (750)](https://github.com/VersionMaruti/News-Project/assets/156605831/cf025d68-9281-4004-81e6-ca8554e7014e)
+![Screenshot (751)](https://github.com/VersionMaruti/News-Project/assets/156605831/51e3bd08-e393-4481-87be-73e1d8a60fe6)
 ### HTML
 
 The HTML file includes the following main components:
